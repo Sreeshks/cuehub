@@ -1,0 +1,12 @@
+# Python virtual environment
+cli_venv
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+venv.bak/
+.idea/
+cuehub.egg-info/
